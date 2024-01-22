@@ -50,10 +50,10 @@
 </tr>
 </table>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Aloka2002"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="210" alt="Aloka2002" /></a></p><br><br>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Aloka2002"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="210" alt="Aloka2002" /></a></p><br><br>
 
