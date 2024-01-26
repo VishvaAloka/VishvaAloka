@@ -56,11 +56,11 @@
 </tr>
 </table>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</h3>
 <p align="left">
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Aloka2002"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="210" alt="Aloka2002" /></a></p><br><br>
 
 
