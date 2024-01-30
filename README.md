@@ -34,33 +34,14 @@
 
 
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
 
 
----
-
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Aloka2002&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aloka2002&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="left">
-
-  <img  align="left"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  
-  </td>
-</tr>
-</table>
-
-<h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Aloka2002"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="210" alt="Aloka2002" /></a></p><br><br>
+### Github Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishvaaloka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="250" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=vishvaaloka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  width="250" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishvaaloka&show_icons=true&count_private=true&hide_border=true" width="250" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vishvaaloka" alt="vishvaaloka" />
+</div>  
 
 
