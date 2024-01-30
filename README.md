@@ -20,6 +20,8 @@
 - 📫 How to reach me **rajeevaloka@gmail.com**
 - ⚡I like playing video games,watching movies and design websites
 
+<img src="https://komarev.com/ghpvc/?username=vishvaaloka&label=Profile%20views&color=blue&style=flat-square" alt="vishvaaloka" />
+
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</h3>
