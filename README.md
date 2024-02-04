@@ -73,6 +73,9 @@ width="50" height="50"/> </a> <img src="https://github.com/VishvaAloka/skill-ico
 
 
 </p>        
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--- stats (end) -->
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/vishvaaloka"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vishvaaloka" /></a></p>
