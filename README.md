@@ -7,9 +7,9 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+px
  <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <img src="https://github.com/VishvaAloka/VishvaAloka/assets/144552160/fac3bb08-731f-4725-bcd0-7d2540aa18df" width="450px" height="250px">
         <p>Loading</p>
     </div>
 
