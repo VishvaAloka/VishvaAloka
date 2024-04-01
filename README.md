@@ -9,8 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 px
  <div align=center>
-        <img src="https://github.com/VishvaAloka/VishvaAloka/assets/144552160/fac3bb08-731f-4725-bcd0-7d2540aa18df" width="450px" height="250px">
-        <p>Loading</p>
+        <img src="https://github.com/VishvaAloka/VishvaAloka/assets/144552160/fac3bb08-731f-4725-bcd0-7d2540aa18df" width="650px" height="450px">
     </div>
 
 - 🌱 I’m currently learning HTML,CSS,PHP,JavaScript & Java
