@@ -30,6 +30,7 @@
 <a href="https://instagram.com/vishva aloka" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="vishva aloka" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/rajeev-aloka/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="https://www.linkedin.com/in/rajeev-aloka-9129842b0/" height="50" width="50" /></a>
 <a href="https://twitter.com/rajeevaloka"  target="blank"><img align="center" src="https://github.com/VishvaAloka/skill-icons/blob/main/icons/Twitter.svg"  height="50" width="50" /></a>
+<a href="https://www.coursera.org/user/8c0df0709b870ea9bc72812af4785d5a" target="blank"><img align="center" src="https://github.com/VishvaAloka/VishvaAloka/assets/144552160/26efe693-da13-4767-9e17-eea08253f9c0" height="50" width="50" /></a>
 </p>
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Languages and Tools:</h3>
