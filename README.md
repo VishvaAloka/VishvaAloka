@@ -7,9 +7,6 @@
 
 <!--horizontal divider(gradiant)-->
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
- <div align=center>
-        <img src="https://github.com/VishvaAloka/VishvaAloka/assets/144552160/fac3bb08-731f-4725-bcd0-7d2540aa18df" width="650px" height="450px">
-    </div>
 
 - 🌱 I’m currently learning HTML,CSS,PHP,JavaScript & Java
 - 💬 Ask me about HTML,CSS,PHP,JavaScript
