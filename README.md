@@ -39,26 +39,6 @@
 width="50" height="50"/> </a> <img src="https://github.com/VishvaAloka/skill-icons/blob/main/icons/VSCode-Light.svg" alt="VSCode"width="50" height="50"/> </a> <img src="https://github.com/VishvaAloka/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50"/> </a> </p>
 
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vishvaaloka&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishvaaloka&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vishvaaloka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
@@ -71,6 +51,9 @@ width="50" height="50"/> </a> <img src="https://github.com/VishvaAloka/skill-ico
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VishvaAloka&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishvaAloka&theme=radical" height="180em" />
 </div>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VishvaAloka&theme=github-dark"/>
 
 </p>        
 
